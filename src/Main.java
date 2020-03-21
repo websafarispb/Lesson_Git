@@ -8,5 +8,9 @@ public class Main {
         System.out.println("Hello Git Bash2");
         System.out.println("1");
         System.out.println("2");
+        System.out.println("Hello Git Bash2");
+        System.out.println("Hello Git Bash22222");
+        System.out.println("22221");
+        System.out.println("222222");
     }
 }
